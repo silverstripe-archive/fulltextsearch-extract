@@ -1,0 +1,14 @@
+{
+    "name": "silverstripe/fulltextsearch-extract",
+    "description": "Necessary SOLR plugins for doc and pdf extraction, to go with silverstripe/fulltextsearch",
+    "license": "BSD (2-clause)",
+    "authors": [
+        {
+            "name": "SilverStripe LTD",
+            "email": "contact@silverstripe.com"
+        }
+    ],
+    "require": {
+		"silverstripe/fulltextsearch": "*"
+    }
+}
